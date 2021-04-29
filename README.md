@@ -6,8 +6,8 @@ Examples when doing spatial visualization with folium  in Python
 
 Available Examples
 
-- [x] [Adding Image Marker to Folium Maps]()
-- [x] [Drawing Routes with Polyline]()
+- [x] [Adding Image Marker to Folium Maps](https://github.com/Kalebu/Folium-visualization-examples/tree/main/image-marker)
+- [x] [Drawing Routes with Polyline](https://github.com/Kalebu/Folium-visualization-examples/tree/main/drawing-route)
 
 
 ## Adding Image Marker to Folium Maps
@@ -16,8 +16,7 @@ In this example you learn how to develop interactive maps with image marker + de
 
 ![](image-marker/image-marker-example.png)
 
-
-
+ad
 ## Drawing Routes
 
 Folium Polyline can help you draw routes between points but just making a straightline through them just as shown below, which can be of least use in our dailycase where we are more interested on the real routes such as (driver route, walk route, and ..) but there cases you may need it . 
